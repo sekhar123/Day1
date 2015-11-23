@@ -1,1 +1,2 @@
 Welcome to github
+I am the third member in git school organization
