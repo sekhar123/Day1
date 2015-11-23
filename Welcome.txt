@@ -1,1 +1,2 @@
 Welcome to github
+I am the first memeber in a gitschool organization
