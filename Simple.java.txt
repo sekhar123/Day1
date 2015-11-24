@@ -10,7 +10,7 @@ public void var()
 	System.out.println(q);
 }
 	public static void main(String[] args) {
-		
+	System.out.println("variables types");	
 		VariableEx v=new VariableEx ();
 		v.var();
 	}
